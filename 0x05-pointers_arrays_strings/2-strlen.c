@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * main - Entry point
  * _strlen - return the length of a string
  * Description: this will return the length of a string
  * Return: 0 is success
