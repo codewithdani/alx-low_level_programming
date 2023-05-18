@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 def ispalindrome(n):
     string = str(n)
     return string == string[::-1]
